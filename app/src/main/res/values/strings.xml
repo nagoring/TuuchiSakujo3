@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TuuchiSakujo3</string>
+    <string name="create_message">作成</string>
+    <string name="button_send">通知待ち</string>
+</resources>
